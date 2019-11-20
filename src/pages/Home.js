@@ -16,6 +16,7 @@ class Home extends React.Component {
                     <br />
                     <Link to='/book/booklist'>书籍列表</Link>
                     <br />
+                    <Link to='/book/select'>查找</Link>
                 </main>
             </div>
         )

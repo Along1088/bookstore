@@ -9,6 +9,8 @@ class BookList extends React.Component {
     }
   }
 
+  
+
   handleDel(book) {
     const confirmed = window.confirm(`确认要删除${book.name}吗?`)
     if (confirmed) {

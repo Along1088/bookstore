@@ -1,15 +1,9 @@
 {
   "book": [
     {
-      "name": "图书管",
-      "author": "along",
-      "price": "100",
-      "id": 5
-    },
-    {
       "name": "骆驼祥子",
       "author": "老舍",
-      "price": "90",
+      "price": 100,
       "id": 8
     },
     {
@@ -23,6 +17,12 @@
       "author": "余华",
       "price": 500,
       "id": 11
+    },
+    {
+      "name": "123",
+      "author": "123",
+      "price": 123,
+      "id": 12
     }
   ]
 }
